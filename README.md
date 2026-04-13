@@ -1,4 +1,4 @@
-Yelp Data Engineering Project using Databricks
+Yelp Data Project using Databricks
 
 - Bronze Layer: Raw data ingestion
 - ##Inspection of patterns:
@@ -9,5 +9,9 @@ Yelp Data Engineering Project using Databricks
 ##The datasets were inspected using schema and review functions to understand their structure and contents.
 
 - Silver Layer: Data cleaning and transformation
-- Gold Layer: Aggregations and analytics (coming next)
-- 
+- Gold Layer: Aggregations and analytics 
+-  Comparison between the two layers after the steps
+-  Analytical queries
+-  Intepretation of findings through visualization from 5 queries
+-  
+-  
